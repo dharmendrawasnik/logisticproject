@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "432020469177",
+    "project_id": "bridge-point-logistic",
+    "storage_bucket": "bridge-point-logistic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432020469177:android:c995e3febedeba2cafb268",
+        "android_client_info": {
+          "package_name": "com.logistic.bridge_point_logistics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC91bzqP-W4vGEajvkoxBl6Ab5o6IuC-38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
